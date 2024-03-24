@@ -1,0 +1,1 @@
+push(item: any): void;
